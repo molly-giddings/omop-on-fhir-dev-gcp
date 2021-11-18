@@ -1,0 +1,9 @@
+# Function dependencies, for example:
+# package>=version
+google-api-python-client
+google-cloud-storage
+google-auth
+google-cloud-tasks
+pyparsing==2.4.7
+requests
+google-cloud-pubsub
